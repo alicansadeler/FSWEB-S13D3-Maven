@@ -14,5 +14,9 @@ public class Main {
 //       System.out.println("LastName: " + person.getLastName());
 //       System.out.println("Age: " + person.getAge());
 //       System.out.println("Age: " + person.isTeen());
+
+        Wall wall1 = new Wall(5,4);
+      //  wall1.setHeight(100);
+        System.out.println(wall1.toString());
     }
 }
